@@ -12,7 +12,8 @@ def argue(mint)
   return mint
 end
 
-def greeting(arg1, arg2)
+def greeting(greeting, name)
+  return greeting + name
 end
 
 def return_a_value
