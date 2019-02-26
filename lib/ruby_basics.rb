@@ -12,7 +12,7 @@ def argue(mint)
   return mint
 end
 
-def greeting
+def greeting(arg1, arg2)
 
 end
 
